@@ -122,8 +122,8 @@
     <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\Frameworks\ARKit\ARWorldAlignment.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\ImageTracking\ARKitImageTrackingProvider.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\ARKitLoaderConstants.cs" />
-    <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\NativeChanges.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\EnvironmentProbeApi.cs" />
+    <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\NativeChanges.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\Input\InputLayoutLoader.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\Frameworks\Foundation\NSURL.cs" />
     <Compile Include="Library\PackageCache\com.unity.xr.arkit@5.1.2\Runtime\ARWorldMapRequest.cs" />
@@ -476,6 +476,10 @@
     </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="JsonFx.Json">
+      <HintPath>Assets\Plugins\JsonFx.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">

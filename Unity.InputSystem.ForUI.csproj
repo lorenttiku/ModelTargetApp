@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A63FE86B-B89D-CF38-4462-4502268DD90B}</ProjectGuid>
+    <ProjectGuid>{C2331283-F831-6FB8-CB06-C817BF94266B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.InputSystem.ForUI</AssemblyName>
@@ -950,15 +950,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{ED467B47-94C5-C861-D326-F7F98C91E6A6}</Project>
+      <Project>{DED30D10-BE75-F2BD-4FF8-6464B8F0F401}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{6CC13F01-ADC3-C1E2-33FC-EDCF05309C3C}</Project>
+      <Project>{34668F52-5E27-5C76-8524-0ABBCB9C5737}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0F430AA0-2685-9610-E199-9E036544E7C5}</Project>
+      <Project>{E91F212C-C7DB-E92E-5CA3-9482115A0395}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

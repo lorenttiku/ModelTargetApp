@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>UnityEngine.XR.ARFoundation.VisualScripting</RootNamespace>
-    <ProjectGuid>{043DB7C4-4EC6-A0C7-6F0F-BDCA0428DDAC}</ProjectGuid>
+    <ProjectGuid>{6A6E6521-BCD7-C97D-05DC-9EAC507B7D56}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.XR.ARFoundation.VisualScripting</AssemblyName>
@@ -855,23 +855,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.ARSubsystems.Player.csproj">
-      <Project>{D92434B5-D4DB-A6E5-A87C-7E91BCA2756E}</Project>
+      <Project>{19AB207F-3758-3A3C-DA01-2645B3500B6F}</Project>
       <Name>Unity.XR.ARSubsystems.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARFoundation.Player.csproj">
-      <Project>{30C306FE-C0AC-888B-9E5C-1EFA84C3F5C5}</Project>
+      <Project>{BC44CB78-CF61-7A90-AFDB-814C220029F2}</Project>
       <Name>Unity.XR.ARFoundation.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Core.Player.csproj">
-      <Project>{24DB0A41-E1AB-68E6-E9F2-DA08677E8D9A}</Project>
+      <Project>{6F6F8FB2-99A3-28CC-B68C-4E12DBE24B86}</Project>
       <Name>Unity.VisualScripting.Core.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Player.csproj">
-      <Project>{04C249E2-A624-3D32-F45B-888F901B98FC}</Project>
+      <Project>{F1759361-3F32-F7CB-EB34-5C171F48B7D6}</Project>
       <Name>Unity.VisualScripting.Flow.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{6EB15E1B-9E15-CDA8-9BE5-B8D1836F0DC0}</Project>
+      <Project>{84F4EAF2-A539-8C13-3FD3-2FB155446EC1}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

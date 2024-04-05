@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{23E7DC17-2751-C3A8-ED48-2A8AE7C965B0}</ProjectGuid>
+    <ProjectGuid>{7BB5F9ED-2341-2ACB-A1D4-FBD0AE18E977}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.XR.Management</AssemblyName>
@@ -955,11 +955,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{6CC13F01-ADC3-C1E2-33FC-EDCF05309C3C}</Project>
+      <Project>{34668F52-5E27-5C76-8524-0ABBCB9C5737}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{0F430AA0-2685-9610-E199-9E036544E7C5}</Project>
+      <Project>{E91F212C-C7DB-E92E-5CA3-9482115A0395}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

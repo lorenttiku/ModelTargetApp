@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{30C306FE-C0AC-888B-9E5C-1EFA84C3F5C5}</ProjectGuid>
+    <ProjectGuid>{BC44CB78-CF61-7A90-AFDB-814C220029F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.XR.ARFoundation</AssemblyName>
@@ -896,27 +896,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.ARSubsystems.Player.csproj">
-      <Project>{D92434B5-D4DB-A6E5-A87C-7E91BCA2756E}</Project>
+      <Project>{19AB207F-3758-3A3C-DA01-2645B3500B6F}</Project>
       <Name>Unity.XR.ARSubsystems.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.Player.csproj">
-      <Project>{FAFF6F16-1B82-B63F-4430-8934877CCA43}</Project>
+      <Project>{EFF583B2-1DA6-267F-CBDC-4D9BC5F30C3E}</Project>
       <Name>Unity.XR.Management.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.SpatialTracking.Player.csproj">
-      <Project>{7C1D1309-1060-A78F-6B90-7419DE17A3F5}</Project>
+      <Project>{03CB1A4F-628C-9A9E-A7AB-58F12776FDEC}</Project>
       <Name>UnityEngine.SpatialTracking.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.CoreUtils.Player.csproj">
-      <Project>{9DB7A580-AB61-A0BA-CC7A-102BF2791337}</Project>
+      <Project>{28DA2E75-4B63-3B41-383B-1CA8319E05D3}</Project>
       <Name>Unity.XR.CoreUtils.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.ARFoundation.InternalUtils.Player.csproj">
-      <Project>{B478FA25-1903-C7A7-D6EB-0D1836ED3EAF}</Project>
+      <Project>{559111AA-0263-D42A-C93D-C01B26349D99}</Project>
       <Name>Unity.XR.ARFoundation.InternalUtils.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{6EB15E1B-9E15-CDA8-9BE5-B8D1836F0DC0}</Project>
+      <Project>{84F4EAF2-A539-8C13-3FD3-2FB155446EC1}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

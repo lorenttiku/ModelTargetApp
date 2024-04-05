@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DFCFA097-C501-2137-85A9-ADF3C15A288A}</ProjectGuid>
+    <ProjectGuid>{FD1F09CF-0325-ECD6-5517-7EEE0E6CD889}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEngine.XR.MagicLeap</AssemblyName>
@@ -877,23 +877,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.ARSubsystems.Player.csproj">
-      <Project>{D92434B5-D4DB-A6E5-A87C-7E91BCA2756E}</Project>
+      <Project>{19AB207F-3758-3A3C-DA01-2645B3500B6F}</Project>
       <Name>Unity.XR.ARSubsystems.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.InteractionSubsystems.Player.csproj">
-      <Project>{D1ED5AF3-CB35-671C-6C30-79E3FC384515}</Project>
+      <Project>{FB4B258E-4EA2-0378-F0E5-5896518A706C}</Project>
       <Name>Unity.XR.InteractionSubsystems.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Management.Player.csproj">
-      <Project>{FAFF6F16-1B82-B63F-4430-8934877CCA43}</Project>
+      <Project>{EFF583B2-1DA6-267F-CBDC-4D9BC5F30C3E}</Project>
       <Name>Unity.XR.Management.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.Player.csproj">
-      <Project>{52769FF9-0408-08C9-567E-09CD7714D953}</Project>
+      <Project>{886175DF-E3CA-004C-EE4C-88DB77C4DE58}</Project>
       <Name>Unity.InputSystem.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{6EB15E1B-9E15-CDA8-9BE5-B8D1836F0DC0}</Project>
+      <Project>{84F4EAF2-A539-8C13-3FD3-2FB155446EC1}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>
